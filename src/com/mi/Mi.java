@@ -12,5 +12,6 @@ public class Mi {
         Map<Integer, Integer> integerIntegerMap = new HashMap<Integer, Integer>();
         list.add(1);
         System.out.println(list.toString());
+                System.out.println(list.toString());
     }
 }
